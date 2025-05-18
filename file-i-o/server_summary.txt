@@ -1,0 +1,3 @@
+Total number of unique IP addresses that accessed the server: 50
+
+Top three most common IP addresses: 237.227.142.204 with 12, 41.241.198.100 with 10, and 65.140.160.255 with 6
